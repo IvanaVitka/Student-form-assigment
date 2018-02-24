@@ -1,0 +1,30 @@
+table {
+	font-family: Calibri;
+	color:white;
+	font-size: 11pt;
+	font-style: normal;
+	font-weight: bold;
+	text-align:left; 
+	background-color: purple ;
+	border-collapse: collapse;
+	border: 2px solid navy
+}
+table.inner{
+	border: 0 px}
+	.name{
+		color: black;
+	}
+.name:hover{
+	background-color: yellow;
+	opacity:0.5;
+}
+#first_name{
+	color: red;
+}
+	
+.header{
+	text-align: center;
+	color:#800080;
+	text-decoration: underline;
+}
+	
